@@ -39,4 +39,5 @@ Update database connection settings in the source code (if needed).
 Build and run the project.
 
 License
+
 This project is for educational purposes.
