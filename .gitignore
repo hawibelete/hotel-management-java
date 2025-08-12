@@ -1,0 +1,15 @@
+/build/
+/build.xml
+*.class
+/nbproject/private/
+/nbproject/private/*
+*.orig
+**/.netbeans_automatic_build
+**/.netbeans_update_resources
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+*.jar
+*.war
+*.ear
