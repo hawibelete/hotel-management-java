@@ -1,4 +1,4 @@
-Hotel Management System (Java)
+# Hotel Management System (Java)
 
 A simple desktop application for managing hotel room reservations.  
 Built in Java with a MySQL database, this system allows hotel staff to manage rooms, customers, and bookings efficiently.
